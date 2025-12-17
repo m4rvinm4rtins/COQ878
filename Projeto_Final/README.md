@@ -37,6 +37,7 @@ bem como arquivos de trajetória gerados durante as simulações de dinâmica mo
 ├── Vasp_Vs_Mace.ipynb
 ├── equilibracao_via_mace.ipynb
 └── producao.ipynb
+```
 
 
 ### Descrição dos arquivos
