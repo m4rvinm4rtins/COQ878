@@ -12,7 +12,7 @@ Os principais aspectos abordados incluem:
 - Dinâmica molecular baseada em MLFF utilizando *foundation models* do MACE
 - Validação energética e de forças em relação a cálculos DFT (VASP)
 - Análise das energias de interação e do deslocamento quadrático médio (MSD)
-- Construção da paisagem de energia livre \(F(r,\theta)\)
+- Construção da paisagem de energia livre \(F(r,$\theta$)\)
 - Comparação com resultados *ab initio* reportados na literatura
 
 ## Metodologia
