@@ -30,12 +30,11 @@ Os principais aspectos abordados incluem:
 O repositório está organizado de forma simples, contendo notebooks de simulação e análise, 
 bem como arquivos de trajetória gerados durante as simulações de dinâmica molecular:
 
-
 ```text
 .
 ├── README.md
-|__ Trabalho_Quântica_Computacional.pdf
-|__ Vasp_Vs_Mace.ipynb
+├── Trabalho_Quântica_Computacional.pdf
+├── Vasp_Vs_Mace.ipynb
 ├── equilibracao_via_mace.ipynb
 └── producao.ipynb
 
