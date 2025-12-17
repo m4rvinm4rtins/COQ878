@@ -29,6 +29,8 @@ Os principais aspectos abordados incluem:
 
 O repositório está organizado de forma simples, contendo notebooks de simulação e análise, 
 bem como arquivos de trajetória gerados durante as simulações de dinâmica molecular:
+
+
 ├── README.md
 ├── equilibracao_via_mace.ipynb
 ├── producao.ipynb
