@@ -31,12 +31,13 @@ O repositório está organizado de forma simples, contendo notebooks de simulaç
 bem como arquivos de trajetória gerados durante as simulações de dinâmica molecular:
 
 
+```text
+.
 ├── README.md
+|__ Trabalho_Quântica_Computacional.pdf
+|__ Vasp_Vs_Mace.ipynb
 ├── equilibracao_via_mace.ipynb
-├── producao.ipynb
-├── Vasp_Vs_Mace.ipynb
-├── mace_md_sI_CO2_260-K.xyz
-└── producao_mace_md_sI_CO2_260-K.xyz
+└── producao.ipynb
 
 
 ### Descrição dos arquivos
