@@ -52,10 +52,3 @@ bem como arquivos de trajetória gerados durante as simulações de dinâmica mo
 - **Vasp_Vs_Mace.ipynb**  
   Notebook dedicado à comparação entre as energias e forças calculadas pelo MACE e aquelas obtidas por cálculos *ab initio* *single-point* com o VASP.
 
-- **mace_md_sI_CO2_260-K.xyz**  
-  Arquivo de trajetória gerado durante a etapa de equilibração da dinâmica molecular com MACE.
-
-- **producao_mace_md_sI_CO2_260-K.xyz**  
-  Arquivo de trajetória da etapa de produção da dinâmica molecular com MACE, contendo energias e forças associadas aos frames
-  simulados e porsterior cálculo de energias e forças para análise comparativa.
-
