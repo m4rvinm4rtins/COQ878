@@ -26,7 +26,6 @@ Os principais aspectos abordados incluem:
   Cálculos *single-point* SCF em frames selecionados das trajetórias de MD
 
 ## Estrutura do Repositório
-## Estrutura do Repositório
 
 O repositório está organizado de forma simples, contendo notebooks de simulação e análise, 
 bem como arquivos de trajetória gerados durante as simulações de dinâmica molecular:
