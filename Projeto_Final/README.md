@@ -46,8 +46,7 @@ bem como arquivos de trajetória gerados durante as simulações de dinâmica mo
   Documento descritivo do repositório, contendo a visão geral do trabalho, metodologia e organização dos arquivos.
 
 - **equilibracao_via_mace.ipynb**  
-  Notebook responsável pela etapa de equilibração do sistema utilizando dinâmica molecular baseada em *Machine Learning Force Fields* (MACE), no ensemble NVT a 260 K. E posterior
-  análise com o arquivo de produção.
+  Notebook responsável pela etapa de equilibração do sistema utilizando dinâmica molecular baseada em *Machine Learning Force Fields* (MACE), no ensemble NVT a 260 K. E posterior análise com o arquivo de produção.
 
 - **producao.ipynb**  
   Notebook da etapa de produção da dinâmica molecular com MACE, a partir da configuração equilibrada, utilizado para a coleta de dados estatísticos e estruturais.
@@ -56,5 +55,6 @@ bem como arquivos de trajetória gerados durante as simulações de dinâmica mo
   Notebook dedicado à comparação entre as energias e forças calculadas pelo MACE e aquelas obtidas por cálculos *ab initio* *single-point* com o VASP.
 
 - **Trabalho_Quântica_Computacional.pdf**
+  
   Arquivo pdf do trabalho escrito.
 
