@@ -55,6 +55,5 @@ bem como arquivos de trajetória gerados durante as simulações de dinâmica mo
   Notebook dedicado à comparação entre as energias e forças calculadas pelo MACE e aquelas obtidas por cálculos *ab initio* *single-point* com o VASP.
 
 - **Trabalho_Quântica_Computacional.pdf**
-  
   Arquivo pdf do trabalho escrito.
 
